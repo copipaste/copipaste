@@ -60,19 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/copipaste">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=copipaste&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copipaste&layout=compact" />
-</a>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
